@@ -9003,7 +9003,7 @@ declare namespace ToolProperties {
  *     ui.LightTableWashSlider.valueChanged.connect(this, this.washChanged);
  * }
  */
-declare namespace Uiloader {
+declare namespace UiLoader {
   /**
    * Takes a DPI-independent pixel dimension (100% DPI scaling on an HD screen) and scales it to the
    * current DPI setting.
